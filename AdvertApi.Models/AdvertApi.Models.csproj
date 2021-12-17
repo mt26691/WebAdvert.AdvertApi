@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Company>Non</Company>
+    <Product>Web Adverts.Microservices</Product>
+    <Authors>AdvertApiTung.Models</Authors>
+    <PackageId>AdvertApiTung.Models</PackageId>
+  </PropertyGroup>
+
+</Project>
